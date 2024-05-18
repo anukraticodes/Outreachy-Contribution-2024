@@ -13,7 +13,7 @@ This repository documents my contributions to the Oppia Foundation as part of my
 - Conducted a research case study to gather data on the usage and impact of Oppia's educational tools.
 
 **Links to Task:**
-- [Research Case Study Report](#)(https://docs.google.com/document/d/1cWEB7MzUzK2uWe6ZW_Bk_RqxBRjniQf83OyGR2_0L8M/edit?tab=t.0#heading=h.p7haf9hp0ah9)
+- [Research Case Study Report](#) [<!-- Add your link here -->](https://docs.google.com/document/d/1cWEB7MzUzK2uWe6ZW_Bk_RqxBRjniQf83OyGR2_0L8M/edit?tab=t.0#heading=h.p7haf9hp0ah9)
 
 ### 2. Detailed Case Studies
 **Objective:** To assess the learning outcomes from Oppia's basic math lessons and the performance of the Android application.
@@ -26,8 +26,8 @@ This repository documents my contributions to the Oppia Foundation as part of my
 - Conducted pre and post-tests to monitor and record the participants' progress.
 
 **Links to Tasks:**
-- [Case Study on Basic Math Lessons](#)(https://docs.google.com/document/d/1_xi1po7vVS4Xn5RbWqmXZkiFhxHPQT_ahI7pEBgGCUk/edit)
-- [Case Study on Android Application](#)(https://docs.google.com/document/d/1l3kXv-iLEm48oAIMjWf1oT_j_QlfeTAkUvm7s6TFtqg/edit#heading=h.h85dp1yiu0pa)
+- [Case Study on Basic Math Lessons](#) [<!-- Add your link here -->](https://docs.google.com/document/d/1_xi1po7vVS4Xn5RbWqmXZkiFhxHPQT_ahI7pEBgGCUk/edit)
+- [Case Study on Android Application](#) [<!-- Add your link here -->](https://docs.google.com/document/d/1l3kXv-iLEm48oAIMjWf1oT_j_QlfeTAkUvm7s6TFtqg/edit#heading=h.h85dp1yiu0pa)
 
 ### 3. Communication and Outreach
 **Objective:** To enhance the visibility of the Oppia Foundation and keep stakeholders informed.
