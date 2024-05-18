@@ -13,7 +13,7 @@ This repository documents my contributions to the Oppia Foundation as part of my
 - Conducted a research case study to gather data on the usage and impact of Oppia's educational tools.
 
 **Links to Task:**
-- [Research Case Study Report](https://docs.google.com/document/d/1cWEB7MzUzK2uWe6ZW_Bk_RqxBRjniQf83OyGR2_0L8M/edit?tab=t.0#heading=h.p7haf9hp0ah9) <!-- Add your link here -->
+- <a href="https://docs.google.com/document/d/1cWEB7MzUzK2uWe6ZW_Bk_RqxBRjniQf83OyGR2_0L8M/edit?tab=t.0#heading=h.p7haf9hp0ah9" target="_blank">Research Case Study Report</a>
 
 ### 2. Detailed Case Studies
 **Objective:** To assess the learning outcomes from Oppia's basic math lessons and the performance of the Android application.
@@ -26,8 +26,8 @@ This repository documents my contributions to the Oppia Foundation as part of my
 - Conducted pre and post-tests to monitor and record the participants' progress.
 
 **Links to Tasks:**
-- [Case Study on Basic Math Lessons](https://docs.google.com/document/d/1_xi1po7vVS4Xn5RbWqmXZkiFhxHPQT_ahI7pEBgGCUk/edit) <!-- Add your link here -->
-- [Case Study on Android Application](https://docs.google.com/document/d/1l3kXv-iLEm48oAIMjWf1oT_j_QlfeTAkUvm7s6TFtqg/edit#heading=h.h85dp1yiu0pa) <!-- Add your link here -->
+- <a href="https://docs.google.com/document/d/1_xi1po7vVS4Xn5RbWqmXZkiFhxHPQT_ahI7pEBgGCUk/edit" target="_blank">Case Study on Basic Math Lessons</a>
+- <a href="https://docs.google.com/document/d/1l3kXv-iLEm48oAIMjWf1oT_j_QlfeTAkUvm7s6TFtqg/edit#heading=h.h85dp1yiu0pa" target="_blank">Case Study on Android Application</a>
 
 ### 3. Communication and Outreach
 **Objective:** To enhance the visibility of the Oppia Foundation and keep stakeholders informed.
@@ -37,8 +37,8 @@ This repository documents my contributions to the Oppia Foundation as part of my
 - Designed a slideshow presentation to showcase Oppia's work and impact.
 
 **Links to Tasks:**
-- [Email Newsletter](https://drive.google.com/file/d/1hKG4jrBO0Nwb6FwGpMnpsNZiVuTO2n_K/view?usp=drive_link) <!-- Add your link here -->
-- [Slideshow Presentation](https://drive.google.com/file/d/1CLqoP6DoSe3ZJE3eC4PqxOUDdbV_Yuac/view?usp=drive_link) <!-- Add your link here -->
+- <a href="https://drive.google.com/file/d/1hKG4jrBO0Nwb6FwGpMnpsNZiVuTO2n_K/view?usp=drive_link" target="_blank">Email Newsletter</a>
+- <a href="https://drive.google.com/file/d/1CLqoP6DoSe3ZJE3eC4PqxOUDdbV_Yuac/view?usp=drive_link" target="_blank">Slideshow Presentation</a>
 
 ## Mentorship
 Throughout my internship, I received valuable guidance and support from my mentors:
@@ -47,7 +47,6 @@ Throughout my internship, I received valuable guidance and support from my mento
 
 ## Conclusion
 My experience with the Oppia Foundation has been incredibly enriching. By conducting research and case studies, and by developing communication materials, I have contributed to Oppia's mission of providing accessible and effective education to children around the world.
-
 ---
 
 *This README.md file provides an overview of my contributions to the Oppia Foundation during my Outreachy internship. Each section details the objectives and activities involved in my tasks, along with the mentorship received.*
