@@ -37,9 +37,6 @@ Throughout my internship, I received valuable guidance and support from my mento
 ## Conclusion
 My experience with the Oppia Foundation has been incredibly enriching. By conducting research and case studies, and by developing communication materials, I have contributed to Oppia's mission of providing accessible and effective education to children around the world.
 
-## Contact Information
-For more information about my work or to get in touch, please contact me at [Your Email Address].
-
 ---
 
 *This README.md file provides an overview of my contributions to the Oppia Foundation during my Outreachy internship. Each section details the objectives and activities involved in my tasks, along with the mentorship received.*
